@@ -1,0 +1,37 @@
+/Assignments/Assignment1_MonthlySalesTax/build/
+/Assignments/Assignment1_MonthlySalesTax/dist/
+
+# Packages #
+############
+# it's better to unpack these files and commit the raw source
+# git has its own built in compression methods
+*.7z
+*.dmg
+*.gz
+*.iso
+*.jar
+*.rar
+*.tar
+*.zip
+/Assignments/Assignment2_MinMaxIntegers/nbproject/private/
+/Assignments/Assignment2_MinMaxIntegers/build/
+/Assignments/Assignment2_MinMaxIntegers/dist/
+/Assignments/Assignment3_PenniesforPay/nbproject/private/
+/Assignments/Assignment3_PenniesforPay/build/
+/Assignments/Assignment3_PenniesforPay/dist/
+/Assignments/Assignment4_isPerfect/nbproject/private/
+/Assignments/Assignment4_isPerfect/build/
+/Assignments/Assignment4_isPerfect/dist/
+/Assignments/Assignment5/nbproject/private/
+/Assignments/Assigntment5_ArrayStatistics/nbproject/private/
+/Assignments/Assigntment5_ArrayStatistics/build/
+/Assignments/Assigntment5_ArrayStatistics/dist/
+/Assignments/Assignment6_AccountBigDecimal/nbproject/private/
+/Assignments/Assignment5_ArrayStatistics/build/
+/Assignments/Assignment5_ArrayStatistics/dist/
+/Assignments/Assignment5_ArrayStatistics/nbproject/private/
+/Assignments/Assignment6_AccountBigDecimal/build/
+/Assignments/Assignment6_AccountBigDecimal/dist/
+/Assignments/Assignment7_TrafficSignal/nbproject/private/
+/Assignments/Assignment7_TrafficSignal/build/
+/Assignments/Assignment7_TrafficSignal/dist/

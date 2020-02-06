@@ -1,0 +1,13 @@
+Instructions: Fill out your name under programmer name, the date and time you started the assignment, 
+the date and time you completed the assignment, total hours you dedicated to the assignment (should be
+a minimum of 1 1/2 hours for a good quality, well done assignment - rules of academic honesty apply for
+this), and any constructive comments you have about the assignment (could be things you liked about the 
+assignment; or if you had the opportunity to do the assignment all over again, what would you do 
+differently?) 
+
+Programmer Name: Johnny
+Assignment Start: 1/8/2020 8:49 PM
+Assignment Completion: 1/8/2020 10:11 PM
+Total Hours for Assignment: 1 Hour, 22 Minutes
+Comments: I tried my best to format the report to be right aligned, but was still having difficulty. So, I
+left it at where it looked similar to the example that was given.
